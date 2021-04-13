@@ -1,0 +1,6 @@
+{"id": "event1", "state": "STARTED", "type": "APPLICATION_LOGS", "host" : "host1000" , "timestamp" : 1001}
+{"id": "event2", "state": "STARTED", "timestamps" : 1011}
+{"id": "event3", "state": "FINISHED", "timestamps" : 1027}
+{"id": "event1", "state": "FINISHED", "type": "APPLICATION_LOGS", "host" : "host1000" , "timestamp" : 1006}
+{"id": "event3", "state": "STARTED", "timestamps" : 1021}
+{"id": "event2", "state": "FINISHED", "timestamps" : 1014}
